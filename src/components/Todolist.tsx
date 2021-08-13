@@ -1,6 +1,7 @@
 import React, { FC, useEffect } from 'react';
 import axios from 'axios';
 import { useState } from 'react';
+import AddTodo from './AddTodo';
 
 interface Itodo {
   id: number;
@@ -31,6 +32,7 @@ const Todolist: FC = () => {
 
   return (
     <div>
+      <AddTodo />
       {todos.map((todo) => {
         return (
           <li key={todo.id}>
