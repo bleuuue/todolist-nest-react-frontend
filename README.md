@@ -3,8 +3,8 @@
 ## **[ About ]**
 > ### **Todolist**
 
-**Development period**<br>
-  21.09.13 ~ 21.10.27
+### Development period
+  21.08.13 ~ 21.08.17
 
 ---
 
