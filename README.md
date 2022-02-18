@@ -22,4 +22,4 @@
 ---
 
 ## **[ Feature Implementation ]**
-- Todo 추가 / 수정 /삭제
+- [x] Todo 추가 / 수정 /삭제
