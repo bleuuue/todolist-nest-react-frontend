@@ -10,10 +10,10 @@
 
 ## **[ Technical Skills ]**
 
-*   Programming Language
+*   **Programming Language**
     *   JavaScript, npm
-*   Front-end Development
-    *   Typescript, React, Axios
+*   **Front-end Development**
+    *   **Typescript, React, Axios**
 *   Back-end Development
     *   NestJS, PostgresSQL
 *   Tools
