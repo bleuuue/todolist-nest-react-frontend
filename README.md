@@ -11,7 +11,7 @@
 ## **[ Technical Skills ]**
 
 *   **Programming Language**
-    *   **JavaScript, npm**
+    *   **Javascript, npm**
 *   **Front-end Development**
     *   **Typescript, React, Axios**
 *   Back-end Development
